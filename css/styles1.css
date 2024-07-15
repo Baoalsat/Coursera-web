@@ -253,6 +253,12 @@ margin-top:15px;
       
       
     }
+    #nav-list {
+      font-size:0.75em;
+      
+      text-align: center;
+      
+    }
     /*End Header */
   }
   /********** Small devices only **********/
